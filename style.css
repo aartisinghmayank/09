@@ -1,0 +1,37 @@
+body
+{
+    background-image:https://i.pinimg.com/564x/06/53/bb/0653bba07f479528b85722d8373957ca.jpg ;
+}
+h1{
+    font-family: cursive;
+    font-style: italic;
+    font-weight: bold;
+}
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border:1px solid rgb(87, 2, 2);
+}
+
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(2, 2, 2, 0.2);
+}
+h4
+{
+    color:red;
+}
+
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+
